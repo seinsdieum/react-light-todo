@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-light-todo/static/css/main.5ea20d8a.css",
+    "main.js": "/react-light-todo/static/js/main.58ab67b7.js",
+    "static/js/787.0fef8e45.chunk.js": "/react-light-todo/static/js/787.0fef8e45.chunk.js",
+    "index.html": "/react-light-todo/index.html",
+    "main.5ea20d8a.css.map": "/react-light-todo/static/css/main.5ea20d8a.css.map",
+    "main.58ab67b7.js.map": "/react-light-todo/static/js/main.58ab67b7.js.map",
+    "787.0fef8e45.chunk.js.map": "/react-light-todo/static/js/787.0fef8e45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ea20d8a.css",
+    "static/js/main.58ab67b7.js"
+  ]
+}
