@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-light-todo/static/css/main.bc0141ba.css",
-    "main.js": "/react-light-todo/static/js/main.e062837a.js",
+    "main.css": "/react-light-todo/static/css/main.43b3096a.css",
+    "main.js": "/react-light-todo/static/js/main.a5c69adf.js",
     "static/js/787.0fef8e45.chunk.js": "/react-light-todo/static/js/787.0fef8e45.chunk.js",
     "index.html": "/react-light-todo/index.html",
-    "main.bc0141ba.css.map": "/react-light-todo/static/css/main.bc0141ba.css.map",
-    "main.e062837a.js.map": "/react-light-todo/static/js/main.e062837a.js.map",
+    "main.43b3096a.css.map": "/react-light-todo/static/css/main.43b3096a.css.map",
+    "main.a5c69adf.js.map": "/react-light-todo/static/js/main.a5c69adf.js.map",
     "787.0fef8e45.chunk.js.map": "/react-light-todo/static/js/787.0fef8e45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc0141ba.css",
-    "static/js/main.e062837a.js"
+    "static/css/main.43b3096a.css",
+    "static/js/main.a5c69adf.js"
   ]
 }
